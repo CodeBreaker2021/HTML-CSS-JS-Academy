@@ -1,0 +1,1 @@
+alert ('You are now in the Courses section.');
